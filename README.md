@@ -16,3 +16,8 @@ I'm learning DevOps through hands-on practice.
 ## Goal
 
 Build practical DevOps skills through daily exercises and projects.
+
+
+## Git Branch Practice
+
+I created my first feature branch and am learning how to merge it into main.
